@@ -1,0 +1,1 @@
+Simple dark theme.
