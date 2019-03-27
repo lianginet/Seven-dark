@@ -2,7 +2,7 @@
     "name": "seven-dark",
     "displayName": "Seven-dark",
     "description": "Simple dark theme.",
-    "version": "0.0.4",
+    "version": "0.1",
     "publisher": "lianginet",
     "engines": {
         "vscode": "^1.32.0"
@@ -10,13 +10,13 @@
     "categories": [
         "Themes"
     ],
-    "icon": "icon.png",
+    "icon": "imgs/icon.png",
     "contributes": {
         "themes": [
             {
                 "label": "seven-dark",
                 "uiTheme": "vs-dark",
-                "path": "./src/seven-dark.json"
+                "path": "./themes/seven-dark.json"
             }
         ]
     }
