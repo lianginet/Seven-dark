@@ -11,3 +11,6 @@ Search `Seven-dark` on extensions.
 
 #### Screenshot of backend.
 ![Theme Backend Screenshot](imgs/backend.png)
+
+### Change Log
+[click here](https://github.com/lianginet/Seven-dark/blob/master/changelog.md)
