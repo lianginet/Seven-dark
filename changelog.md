@@ -1,4 +1,5 @@
 ## Changelog
 
-#### v0.1
-- first version.
+#### v0.1.x
+- First version.
+- Update intro.
