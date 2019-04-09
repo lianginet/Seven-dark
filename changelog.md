@@ -2,4 +2,4 @@
 
 #### v0.1.x
 - First version.
-- Update intro.
+- Update intro and icon.
